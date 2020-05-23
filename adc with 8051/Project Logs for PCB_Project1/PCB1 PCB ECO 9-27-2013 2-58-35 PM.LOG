@@ -1,0 +1,182 @@
+Added Component: Designator=10K(reg-variable)
+Added Component: Designator=35(LM35_TEMP SENSOR)
+Added Component: Designator=ADC(dip-20pin)
+Added Component: Designator=AT89C51(AT89S52)
+Added Component: Designator=bz(buzzer)
+Added Component: Designator=C1(CAP)
+Added Component: Designator=C2(CAP)
+Added Component: Designator=C5(RAD-0.3)
+Added Component: Designator=CR1(XTAL-LARGE)
+Added Component: Designator=D1(LED-1)
+Added Component: Designator=LCD(LCD-16x2)
+Added Component: Designator=P?(7805 WITH HEAT-SINK)
+Added Component: Designator=PHON(PHONE JACK)
+Added Component: Designator=R1(res- 2.54x3)
+Added Component: Designator=R3(res- 2.54x3)
+Added Component: Designator=R4(reg-variable)
+Added Component: Designator=R6(AXIAL-0.3)
+Added Component: Designator=S1(sw-pb)
+Added Component: Designator=S2(sw-pb)
+Added Component: Designator=S3(sw-pb)
+Added Component: Designator=S4(sw-pb)
+Added Component: Designator=SPDT(TL36WW15050)
+Added Pin To Net: NetName=1 Pin=C5-2
+Added Pin To Net: NetName=1 Pin=P?-1
+Added Pin To Net: NetName=1 Pin=PHON-1
+Added Net: Name=1
+Added Pin To Net: NetName=2 Pin=10K-1
+Added Pin To Net: NetName=2 Pin=LCD-2
+Added Net: Name=2
+Added Pin To Net: NetName=3 Pin=10K-2
+Added Pin To Net: NetName=3 Pin=LCD-3
+Added Net: Name=3
+Added Pin To Net: NetName=CN 1 Pin=ADC-18
+Added Pin To Net: NetName=CN 1 Pin=AT89C51-39
+Added Net: Name=CN 1
+Added Pin To Net: NetName=CN 2 Pin=ADC-17
+Added Pin To Net: NetName=CN 2 Pin=AT89C51-38
+Added Net: Name=CN 2
+Added Pin To Net: NetName=CN 3 Pin=ADC-16
+Added Pin To Net: NetName=CN 3 Pin=AT89C51-37
+Added Net: Name=CN 3
+Added Pin To Net: NetName=CN 4 Pin=ADC-15
+Added Pin To Net: NetName=CN 4 Pin=AT89C51-36
+Added Net: Name=CN 4
+Added Pin To Net: NetName=CN 5 Pin=ADC-14
+Added Pin To Net: NetName=CN 5 Pin=AT89C51-35
+Added Net: Name=CN 5
+Added Pin To Net: NetName=CN 6 Pin=ADC-13
+Added Pin To Net: NetName=CN 6 Pin=AT89C51-34
+Added Net: Name=CN 6
+Added Pin To Net: NetName=CN 7 Pin=ADC-12
+Added Pin To Net: NetName=CN 7 Pin=AT89C51-33
+Added Net: Name=CN 7
+Added Pin To Net: NetName=CN 8 Pin=ADC-11
+Added Pin To Net: NetName=CN 8 Pin=AT89C51-32
+Added Net: Name=CN 8
+Added Pin To Net: NetName=CN 9 Pin=ADC-3
+Added Pin To Net: NetName=CN 9 Pin=AT89C51-13
+Added Net: Name=CN 9
+Added Pin To Net: NetName=CN 10 Pin=ADC-2
+Added Pin To Net: NetName=CN 10 Pin=AT89C51-14
+Added Net: Name=CN 10
+Added Pin To Net: NetName=CN 11 Pin=ADC-5
+Added Pin To Net: NetName=CN 11 Pin=AT89C51-15
+Added Net: Name=CN 11
+Added Pin To Net: NetName=CN 12 Pin=ADC-19
+Added Pin To Net: NetName=CN 12 Pin=R3-1
+Added Net: Name=CN 12
+Added Pin To Net: NetName=CN 13 Pin=35-2
+Added Pin To Net: NetName=CN 13 Pin=ADC-6
+Added Net: Name=CN 13
+Added Pin To Net: NetName=CN 14 Pin=ADC-9
+Added Pin To Net: NetName=CN 14 Pin=R4-2
+Added Net: Name=CN 14
+Added Pin To Net: NetName=CN 15 Pin=AT89C51-1
+Added Pin To Net: NetName=CN 15 Pin=S1-2
+Added Pin To Net: NetName=CN 15 Pin=S1-2
+Added Net: Name=CN 15
+Added Pin To Net: NetName=CN 16 Pin=AT89C51-2
+Added Pin To Net: NetName=CN 16 Pin=S2-2
+Added Pin To Net: NetName=CN 16 Pin=S2-2
+Added Net: Name=CN 16
+Added Pin To Net: NetName=CN 17 Pin=AT89C51-4
+Added Pin To Net: NetName=CN 17 Pin=S3-2
+Added Pin To Net: NetName=CN 17 Pin=S3-2
+Added Net: Name=CN 17
+Added Pin To Net: NetName=CN 18 Pin=AT89C51-5
+Added Pin To Net: NetName=CN 18 Pin=S4-2
+Added Pin To Net: NetName=CN 18 Pin=S4-2
+Added Net: Name=CN 18
+Added Pin To Net: NetName=CN 19 Pin=AT89C51-3
+Added Pin To Net: NetName=CN 19 Pin=SPDT-2
+Added Net: Name=CN 19
+Added Pin To Net: NetName=CN 20 Pin=AT89C51-8
+Added Net: Name=CN 20
+Added Pin To Net: NetName=CN 21 Pin=AT89C51-9
+Added Pin To Net: NetName=CN 21 Pin=C1-1
+Added Pin To Net: NetName=CN 21 Pin=R1-1
+Added Net: Name=CN 21
+Added Pin To Net: NetName=E Pin=AT89C51-16
+Added Net: Name=E
+Added Pin To Net: NetName=GND Pin=10K-3
+Added Pin To Net: NetName=GND Pin=35-1
+Added Pin To Net: NetName=GND Pin=ADC-1
+Added Pin To Net: NetName=GND Pin=ADC-7
+Added Pin To Net: NetName=GND Pin=ADC-8
+Added Pin To Net: NetName=GND Pin=ADC-10
+Added Pin To Net: NetName=GND Pin=AT89C51-20
+Added Pin To Net: NetName=GND Pin=bz-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=LCD-15
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=PHON-2
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R4-3
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S3-1
+Added Pin To Net: NetName=GND Pin=S3-1
+Added Pin To Net: NetName=GND Pin=S4-1
+Added Pin To Net: NetName=GND Pin=S4-1
+Added Pin To Net: NetName=GND Pin=SPDT-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetADC_4 Pin=ADC-4
+Added Pin To Net: NetName=NetADC_4 Pin=C2-2
+Added Pin To Net: NetName=NetADC_4 Pin=R3-2
+Added Net: Name=NetADC_4
+Added Pin To Net: NetName=NetAT89C51_18 Pin=AT89C51-18
+Added Pin To Net: NetName=NetAT89C51_18 Pin=CR1-1
+Added Net: Name=NetAT89C51_18
+Added Pin To Net: NetName=NetAT89C51_19 Pin=AT89C51-19
+Added Pin To Net: NetName=NetAT89C51_19 Pin=CR1-2
+Added Net: Name=NetAT89C51_19
+Added Pin To Net: NetName=NetAT89C51_21 Pin=AT89C51-21
+Added Pin To Net: NetName=NetAT89C51_21 Pin=LCD-7
+Added Net: Name=NetAT89C51_21
+Added Pin To Net: NetName=NetAT89C51_22 Pin=AT89C51-22
+Added Pin To Net: NetName=NetAT89C51_22 Pin=LCD-8
+Added Net: Name=NetAT89C51_22
+Added Pin To Net: NetName=NetAT89C51_23 Pin=AT89C51-23
+Added Pin To Net: NetName=NetAT89C51_23 Pin=LCD-9
+Added Net: Name=NetAT89C51_23
+Added Pin To Net: NetName=NetAT89C51_24 Pin=AT89C51-24
+Added Pin To Net: NetName=NetAT89C51_24 Pin=LCD-10
+Added Net: Name=NetAT89C51_24
+Added Pin To Net: NetName=NetAT89C51_25 Pin=AT89C51-25
+Added Pin To Net: NetName=NetAT89C51_25 Pin=LCD-11
+Added Net: Name=NetAT89C51_25
+Added Pin To Net: NetName=NetAT89C51_26 Pin=AT89C51-26
+Added Pin To Net: NetName=NetAT89C51_26 Pin=LCD-12
+Added Net: Name=NetAT89C51_26
+Added Pin To Net: NetName=NetAT89C51_27 Pin=AT89C51-27
+Added Pin To Net: NetName=NetAT89C51_27 Pin=LCD-13
+Added Net: Name=NetAT89C51_27
+Added Pin To Net: NetName=NetAT89C51_28 Pin=AT89C51-28
+Added Pin To Net: NetName=NetAT89C51_28 Pin=LCD-14
+Added Net: Name=NetAT89C51_28
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R6-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=RS Pin=AT89C51-10
+Added Net: Name=RS
+Added Pin To Net: NetName=RW Pin=AT89C51-11
+Added Net: Name=RW
+Added Pin To Net: NetName=VCC Pin=35-3
+Added Pin To Net: NetName=VCC Pin=ADC-20
+Added Pin To Net: NetName=VCC Pin=AT89C51-31
+Added Pin To Net: NetName=VCC Pin=AT89C51-40
+Added Pin To Net: NetName=VCC Pin=bz-2
+Added Pin To Net: NetName=VCC Pin=C1-2
+Added Pin To Net: NetName=VCC Pin=LCD-16
+Added Pin To Net: NetName=VCC Pin=P?-3
+Added Pin To Net: NetName=VCC Pin=R4-1
+Added Pin To Net: NetName=VCC Pin=R6-1
+Added Pin To Net: NetName=VCC Pin=SPDT-1
+Added Net: Name=VCC
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1

@@ -1,0 +1,100 @@
+Added Component: Designator=D0(DIODE)
+Added Component: Designator=D1(DIODE)
+Added Component: Designator=D3(DIODE)
+Added Component: Designator=D5(DIODE)
+Added Component: Designator=D6(DIODE)
+Added Component: Designator=D7(DIODE)
+Added Component: Designator=D8(DIODE)
+Added Component: Designator=HT12E(dip-18pin)
+Added Component: Designator=PIN(combicon-2pin_black)
+Added Component: Designator=R1(res- 2.54x3)
+Added Component: Designator=S1(sw-pb)
+Added Component: Designator=S2(sw-pb)
+Added Component: Designator=S3(sw-pb)
+Added Component: Designator=S4(sw-pb)
+Added Component: Designator=(DIODE)
+Added Net: Name=ANTANNA
+Added Pin To Net: NetName=GND Pin=HT12E-1
+Added Pin To Net: NetName=GND Pin=HT12E-2
+Added Pin To Net: NetName=GND Pin=HT12E-3
+Added Pin To Net: NetName=GND Pin=HT12E-4
+Added Pin To Net: NetName=GND Pin=HT12E-5
+Added Pin To Net: NetName=GND Pin=HT12E-6
+Added Pin To Net: NetName=GND Pin=HT12E-7
+Added Pin To Net: NetName=GND Pin=HT12E-8
+Added Pin To Net: NetName=GND Pin=HT12E-9
+Added Pin To Net: NetName=GND Pin=PIN-2
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=GND Pin=S3-2
+Added Pin To Net: NetName=GND Pin=S3-2
+Added Pin To Net: NetName=GND Pin=S4-2
+Added Pin To Net: NetName=GND Pin=S4-2
+Added Net: Name=GND
+Added Pin To Net: NetName=Net_1 Pin=-1
+Added Pin To Net: NetName=Net_1 Pin=HT12E-10
+Added Net: Name=Net_1
+Added Pin To Net: NetName=Net_2 Pin=-2
+Added Pin To Net: NetName=Net_2 Pin=D7-2
+Added Pin To Net: NetName=Net_2 Pin=S1-1
+Added Pin To Net: NetName=Net_2 Pin=S1-1
+Added Net: Name=Net_2
+Added Pin To Net: NetName=NetD0_1 Pin=D0-1
+Added Pin To Net: NetName=NetD0_1 Pin=HT12E-13
+Added Net: Name=NetD0_1
+Added Pin To Net: NetName=NetD0_2 Pin=D0-2
+Added Pin To Net: NetName=NetD0_2 Pin=D5-2
+Added Pin To Net: NetName=NetD0_2 Pin=S4-1
+Added Pin To Net: NetName=NetD0_2 Pin=S4-1
+Added Net: Name=NetD0_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=HT12E-12
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D8-2
+Added Pin To Net: NetName=NetD1_2 Pin=S3-1
+Added Pin To Net: NetName=NetD1_2 Pin=S3-1
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=HT12E-11
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=D6-2
+Added Pin To Net: NetName=NetD3_2 Pin=S2-1
+Added Pin To Net: NetName=NetD3_2 Pin=S2-1
+Added Net: Name=NetD3_2
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=D6-1
+Added Pin To Net: NetName=NetD5_1 Pin=D7-1
+Added Pin To Net: NetName=NetD5_1 Pin=D8-1
+Added Pin To Net: NetName=NetD5_1 Pin=HT12E-14
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetHT12E_15 Pin=HT12E-15
+Added Pin To Net: NetName=NetHT12E_15 Pin=R1-2
+Added Net: Name=NetHT12E_15
+Added Pin To Net: NetName=NetHT12E_16 Pin=HT12E-16
+Added Pin To Net: NetName=NetHT12E_16 Pin=R1-1
+Added Net: Name=NetHT12E_16
+Added Pin To Net: NetName=NetHT12E_17 Pin=HT12E-17
+Added Net: Name=NetHT12E_17
+Added Pin To Net: NetName=VCC Pin=HT12E-18
+Added Pin To Net: NetName=VCC Pin=PIN-1
+Added Net: Name=VCC
+Added Member To Class: ClassName=Sheet1 Member=Component D0
+Added Member To Class: ClassName=Sheet1 Member=Component D1 
+Added Member To Class: ClassName=Sheet1 Member=Component D3 
+Added Member To Class: ClassName=Sheet1 Member=Component D5 
+Added Member To Class: ClassName=Sheet1 Member=Component D6 
+Added Member To Class: ClassName=Sheet1 Member=Component D7 
+Added Member To Class: ClassName=Sheet1 Member=Component D8 
+Added Member To Class: ClassName=Sheet1 Member=Component HT12E dip-18pin
+Added Member To Class: ClassName=Sheet1 Member=Component PIN Combicon 4pin
+Added Member To Class: ClassName=Sheet1 Member=Component R1 1.12MHZ
+Added Member To Class: ClassName=Sheet1 Member=Component S1 SW-PB
+Added Member To Class: ClassName=Sheet1 Member=Component S2 SW-PB
+Added Member To Class: ClassName=Sheet1 Member=Component S3 SW-PB
+Added Member To Class: ClassName=Sheet1 Member=Component S4 SW-PB
+Added Member To Class: ClassName=Sheet1 Member=Component  D4
+Added Room: Name=Sheet1

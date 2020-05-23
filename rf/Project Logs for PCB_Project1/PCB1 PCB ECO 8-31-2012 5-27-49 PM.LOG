@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=NetD3_1 Pin=HT12E-11
+Removed Pin From Net: NetName=NetD1_1 Pin=HT12E-12
+Removed Member From Class: ClassName=Sheet1 Member=D0
+Change Component DesignItemId : Designator=D1 Old DesignItemId=Diode New DesignItemId=DIODE SMALL
+Change Component DesignItemId : Designator=D3 Old DesignItemId=Diode New DesignItemId=DIODE SMALL
+Change Component DesignItemId : Designator=D5 Old DesignItemId=Diode New DesignItemId=DIODE SMALL
+Change Component DesignItemId : Designator=D6 Old DesignItemId=Diode New DesignItemId=DIODE SMALL
+Change Component DesignItemId : Designator=D7 Old DesignItemId=Diode New DesignItemId=DIODE SMALL
+Change Component DesignItemId : Designator=D8 Old DesignItemId=Diode New DesignItemId=DIODE SMALL
+Change Component Footprint: Designator=D1 Old Footprint=DIODE New Footprint=diode small
+Change Component Footprint: Designator=D3 Old Footprint=DIODE New Footprint=diode small
+Change Component Footprint: Designator=D5 Old Footprint=DIODE New Footprint=diode small
+Change Component Footprint: Designator=D6 Old Footprint=DIODE New Footprint=diode small
+Change Component Footprint: Designator=D7 Old Footprint=DIODE New Footprint=diode small
+Change Component Footprint: Designator=D8 Old Footprint=DIODE New Footprint=diode small
+Change Component Comment : Designator=D1 Old Comment= New Comment=DIODE SMALL
+Change Component Comment : Designator=D3 Old Comment= New Comment=DIODE SMALL
+Change Component Comment : Designator=D5 Old Comment= New Comment=DIODE SMALL
+Change Component Comment : Designator=D6 Old Comment= New Comment=DIODE SMALL
+Change Component Comment : Designator=D7 Old Comment= New Comment=DIODE SMALL
+Change Component Comment : Designator=D8 Old Comment= New Comment=DIODE SMALL
+Added Component: Designator=D2(diode small)
+Added Component: Designator=d4(diode small)
+Added Pin To Net: NetName=NetD1_1 Pin=HT12E-10
+Added Pin To Net: NetName=NetD3_1 Pin=HT12E-12
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=HT12E-11
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=D5-2
+Added Pin To Net: NetName=NetD2_2 Pin=D6-2
+Added Pin To Net: NetName=NetD2_2 Pin=D7-2
+Added Pin To Net: NetName=NetD2_2 Pin=S2-1
+Added Pin To Net: NetName=NetD2_2 Pin=S2-1
+Added Pin To Net: NetName=NetD2_2 Pin=S3-1
+Added Pin To Net: NetName=NetD2_2 Pin=S3-1
+Added Pin To Net: NetName=NetD2_2 Pin=S4-1
+Added Pin To Net: NetName=NetD2_2 Pin=S4-1
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=Netd4_1 Pin=d4-1
+Added Pin To Net: NetName=Netd4_1 Pin=HT12E-13
+Added Net: Name=Netd4_1
+Added Pin To Net: NetName=Netd8_2 Pin=D8-2
+Added Pin To Net: NetName=Netd8_2 Pin=S1-1
+Added Pin To Net: NetName=Netd8_2 Pin=S1-1
+Added Net: Name=Netd8_2
+Added Member To Class: ClassName=Sheet1 Member=Component D2 DIODE SMALL
+Added Member To Class: ClassName=Sheet1 Member=Component d4 DIODE SMALL
+Added Room: Name=Sheet1

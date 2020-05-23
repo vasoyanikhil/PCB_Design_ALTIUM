@@ -1,0 +1,7 @@
+Added Component: Designator=MDT 433.92(PCBComponent_1)
+Added Pin To Net: NetName=ANTANNA Pin=MDT 433.92-1
+Added Pin To Net: NetName=NetHT12E_17 Pin=MDT 433.92-2
+Added Pin To Net: NetName=NetD5_1 Pin=MDT 433.92-3
+Added Pin To Net: NetName=VCC Pin=MDT 433.92-4
+Added Member To Class: ClassName=Sheet1 Member=Component MDT 433.92 
+Added Room: Name=Sheet1

@@ -1,0 +1,44 @@
+Added Component: Designator=bug(bergstrip-2pin)
+Added Component: Designator=d1(LED-BLUE)
+Added Component: Designator=d2(LED-BLUE)
+Added Component: Designator=d3(LED-BLUE)
+Added Component: Designator=op-amp(dip-8pin)
+Added Component: Designator=r1(res-2.54x4)
+Added Component: Designator=r2(res-2.54x4)
+Added Component: Designator=r3(res-2.54x4)
+Added Component: Designator=r4(res-2.54x4)
+Added Component: Designator=r5(reg-variable)
+Added Pin To Net: NetName=2 Pin=d1-2
+Added Pin To Net: NetName=2 Pin=op-amp-2
+Added Pin To Net: NetName=2 Pin=r2-1
+Added Net: Name=2
+Added Pin To Net: NetName=3 Pin=op-amp-3
+Added Pin To Net: NetName=3 Pin=r5-3
+Added Net: Name=3
+Added Pin To Net: NetName=6 Pin=d3-1
+Added Pin To Net: NetName=6 Pin=op-amp-6
+Added Net: Name=6
+Added Pin To Net: NetName=9 Pin=r3-2
+Added Pin To Net: NetName=9 Pin=r5-1
+Added Net: Name=9
+Added Pin To Net: NetName=10 Pin=d2-1
+Added Pin To Net: NetName=10 Pin=r4-1
+Added Net: Name=10
+Added Pin To Net: NetName=11 Pin=d3-2
+Added Pin To Net: NetName=11 Pin=r1-1
+Added Net: Name=11
+Added Pin To Net: NetName=GND Pin=bug-1
+Added Pin To Net: NetName=GND Pin=d1-1
+Added Pin To Net: NetName=GND Pin=d2-2
+Added Pin To Net: NetName=GND Pin=op-amp-4
+Added Pin To Net: NetName=GND Pin=r1-2
+Added Pin To Net: NetName=GND Pin=r3-1
+Added Net: Name=GND
+Added Pin To Net: NetName=VCC Pin=bug-2
+Added Pin To Net: NetName=VCC Pin=op-amp-7
+Added Pin To Net: NetName=VCC Pin=r2-2
+Added Pin To Net: NetName=VCC Pin=r4-2
+Added Pin To Net: NetName=VCC Pin=r5-2
+Added Net: Name=VCC
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
